@@ -5,6 +5,9 @@ I specialize in building robust backend systems and am currently focused on brid
 
 ---
 
+### 🚀 What I'm Building Personal Projects
+- **Project 1:** *Web Scrapping Event data - dates & deadlines*
+
 ### 🚀 What I'm Building (8-Week Portfolio Sprint)
 - **Project 1:** [AI Feedback Analyzer](link-to-repo) - Automating product insights using LLMs.
 - **Project 2:** *Competitive Intel Agent (Coming Soon)*
